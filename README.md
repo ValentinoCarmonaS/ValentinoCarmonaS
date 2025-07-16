@@ -1,14 +1,16 @@
-# 👋 ¡Hola! Soy Valentino Carmona
+# 👋 Hi there! I'm Valentino Carmona
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/valentino-carmona-85399b23b)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:valencarmoon@gmail.com)
 ![Status](https://img.shields.io/badge/Backend--Developer-Active-brightgreen?style=for-the-badge)
 
-🎓 Estudiante de Ingeniería Informática en FIUBA – Universidad de Buenos Aires  
-💻 Enfocado en el desarrollo **backend** con buenas prácticas de diseño, testing y documentación  
-🔎 Buscando oportunidades donde pueda seguir aprendiendo, colaborar y aportar valor técnico real
+🎓 Computer Engineering student at FIUBA – University of Buenos Aires  
+💻 Focused on **backend development** with strong practices in design, testing and documentation  
+🔎 Looking for opportunities to keep learning, collaborate and contribute technical value
 
-## ⚙️ Tecnologías y herramientas
+---
+
+## ⚙️ Technologies and Tools
 
 ![API-RESTful](https://img.shields.io/badge/API-RESTful-00BB2D?style=flat-square&logo=api&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -22,49 +24,59 @@
 ![Cucumber](https://img.shields.io/badge/Cucumber-00BB2D?style=flat-square&logo=Cucumber&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 🧩 Proyectos destacados
+---
+
+## 🧩 Featured Projects
 
 ### 🔹 [API-CRUD](https://github.com/ValentinoCarmonaS/API-CRUD)  
 ![Build Status](https://github.com/ValentinoCarmonaS/API-CRUD/actions/workflows/ci.yml/badge.svg)
-[![Codecov](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD/branch/main/graph/badge.svg)](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD)
-> API RESTful para gestión de usuarios con Node.js, Express y MongoDB.  
-> Autenticación con JWT, testing con Jest, Docker y documentación Swagger.  
+[![Codecov](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD/branch/main/graph/badge.svg)](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD)  
+> RESTful API for user management using Node.js, Express and MongoDB.  
+> Includes JWT authentication, Jest testing, Docker, and Swagger documentation.  
 🔗 [Swagger Docs](https://api-crud-soy5.onrender.com/api-docs)
 
 ---
 
 ### 🔹 [RealTimeChat – API](https://github.com/ValentinoCarmonaS/RealTimeChat)  
 ![Build Status](https://github.com/ValentinoCarmonaS/RealTimeChat/actions/workflows/ci.yml/badge.svg)
-![Codecov](https://codecov.io/gh/ValentinoCarmonaS/RealTimeChat/branch/main/graph/badge.svg)
-> API backend para mensajería en tiempo real usando WebSockets y MongoDB.  
-> Incluye autenticación, rooms, testing automatizado y Swagger.  
+![Codecov](https://codecov.io/gh/ValentinoCarmonaS/RealTimeChat/branch/main/graph/badge.svg)  
+> Backend API for real-time messaging using WebSockets and MongoDB.  
+> Includes authentication, rooms, automated testing and Swagger.  
 🔗 [Swagger Docs](https://realtimechat-59t7.onrender.com/api-docs)
 
 ---
 
 ### 🔹 [API-PSA (FIUBA)](https://github.com/ValentinoCarmonaS/squad_07_2025_1c)  
-> Microservicio backend desarrollado en Spring Boot con PostgreSQL y Flyway.  
-> Proyecto académico en equipo para gestión de proyectos. Testing con JUnit y Cucumber.
->
-> 🔗 [Gestión de Proyectos](https://tribu-a-2025-1c.onrender.com/proyectos)
->
-> 🔗 [Swagger Docs](https://squad-07-2025-1c.onrender.com/swagger-ui/index.html)
+> Backend microservice developed with Spring Boot, PostgreSQL and Flyway.  
+> Academic team project for project management. Testing with JUnit and Cucumber.  
+🔗 [Project Management](https://tribu-a-2025-1c.onrender.com/proyectos)  
+🔗 [Swagger Docs](https://squad-07-2025-1c.onrender.com/swagger-ui/index.html)
 
 ---
 
-### 🔹 [Logistic-Network (en desarrollo)](https://github.com/ValentinoCarmonaS/Logistic_Network)  
-> API RESTful que aplicará algoritmos de grafos (Dijkstra, BFS, MST) a problemas logísticos.  
-> Desarrollado con Spring Boot y PostgreSQL. Testing con JUnit y documentación Swagger.
+### 🔹 [Logistic-Network (in progress)](https://github.com/ValentinoCarmonaS/Logistic_Network)  
+> RESTful API for logistics network optimization using graph algorithms such as Dijkstra, BFS, and MST.  
+> Currently in development with Java and Spring Boot. Includes JUnit testing and Swagger documentation.  
+> **Objective**: Apply advanced data structures and algorithms in a real-world backend use case.
 
+---
 
-## 💼 Sobre mí
+## 💼 About Me
 
-- Soy una persona comprometida con la mejora continua, que valora el código limpio, las soluciones escalables y el aprendizaje en equipo.
-- Me motiva crear sistemas que resuelvan problemas reales y estén bien diseñados desde la arquitectura hasta el testing.
-- Aunque todavía no tengo experiencia profesional en empresas de software, mis proyectos académicos y personales reflejan mi capacidad de trabajo, aprendizaje y buenas prácticas.
+- I'm a person committed to continuous improvement, who values clean code, scalable solutions and teamwork-based learning.
+- I'm driven to build backend solutions that deliver real value, with a strong focus on clean architecture, automated testing, and effective documentation.
+- Although I don’t yet have professional experience in software companies, my academic and personal projects reflect my work ethic, self-learning ability and use of best practices.
 
-## 📫 Contacto
+---
+
+## 📘 Currently Learning
+
+- Deepening knowledge in graph theory and algorithmic applications in backend systems  
+- Exploring AWS (EC2, S3, IAM) and best practices for backend deployment in cloud environments
+
+---
+
+## 📫 Contact
 
 📧 [valencarmoon@gmail.com](mailto:valencarmoon@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/valentino-carmona-85399b23b)  
-
+🌐 [LinkedIn](https://www.linkedin.com/in/valentino-carmona-85399b23b)
