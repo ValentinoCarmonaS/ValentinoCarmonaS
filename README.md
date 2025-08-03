@@ -16,6 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -30,7 +31,9 @@
 
 ### 🔹 [API-CRUD](https://github.com/ValentinoCarmonaS/API-CRUD)  
 ![Build Status](https://github.com/ValentinoCarmonaS/API-CRUD/actions/workflows/ci.yml/badge.svg)
-[![Codecov](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD/branch/main/graph/badge.svg)](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD)  
+![Codecov](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD/branch/main/graph/badge.svg)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 > RESTful API for user management using Node.js, Express and MongoDB.  
 > Includes JWT authentication, Jest testing, Docker, and Swagger documentation.  
 🔗 [Swagger Docs](https://api-crud-soy5.onrender.com/api-docs)
@@ -39,14 +42,18 @@
 
 ### 🔹 [RealTimeChat – API](https://github.com/ValentinoCarmonaS/RealTimeChat)  
 ![Build Status](https://github.com/ValentinoCarmonaS/RealTimeChat/actions/workflows/ci.yml/badge.svg)
-![Codecov](https://codecov.io/gh/ValentinoCarmonaS/RealTimeChat/branch/main/graph/badge.svg)  
+![Codecov](https://codecov.io/gh/ValentinoCarmonaS/RealTimeChat/branch/main/graph/badge.svg)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 > Backend API for real-time messaging using WebSockets and MongoDB.  
 > Includes authentication, rooms, automated testing and Swagger.  
 🔗 [Swagger Docs](https://realtimechat-59t7.onrender.com/api-docs)
 
 ---
 
-### 🔹 [API-PSA (FIUBA)](https://github.com/ValentinoCarmonaS/squad_07_2025_1c)  
+### 🔹 [API-PSA (FIUBA)](https://github.com/ValentinoCarmonaS/squad_07_2025_1c)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 > Backend microservice developed with Spring Boot, PostgreSQL and Flyway.  
 > Academic team project for project management. Testing with JUnit and Cucumber.  
 🔗 [Project Management](https://tribu-a-2025-1c.onrender.com/proyectos)  
@@ -55,6 +62,8 @@
 ---
 
 ### 🔹 [Logistic-Network (in progress)](https://github.com/ValentinoCarmonaS/Logistic_Network)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 > RESTful API for logistics network optimization using graph algorithms such as Dijkstra, BFS, and MST.  
 > Currently in development with Java and Spring Boot. Includes JUnit testing and Swagger documentation.  
 > **Objective**: Apply advanced data structures and algorithms in a real-world backend use case.
