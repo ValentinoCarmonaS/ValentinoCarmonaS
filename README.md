@@ -80,6 +80,13 @@
 
 ## 📘 Currently Learning
 
+### 🔹 [RutinaDelProgramador](https://github.com/ValentinoCarmonaS/RutinaDelProgramador)
+![Build Status](https://github.com/ValentinoCarmonaS/RutinaDelProgramador/actions/workflows/tests.yml/badge.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+> Daily coding routine focused on strengthening data structures and algorithms skills.
+> Organized into themed sessions covering arrays, strings, hash tables, pointers, linked lists, stacks/queues, binary search, trees, graphs, etc. 
+> Designed as a structured, progressive practice plan to reinforce problem-solving techniques and algorithmic thinking.
+
 - Deepening knowledge in graph theory and algorithmic applications in backend systems  
 - Exploring AWS (EC2, S3, IAM) and best practices for backend deployment in cloud environments
 
