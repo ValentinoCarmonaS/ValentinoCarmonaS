@@ -1,98 +1,165 @@
-# 👋 Hi there! I'm Valentino Carmona
+# Valentino Carmona
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/valentino-carmona-85399b23b)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:valencarmoon@gmail.com)
-![Status](https://img.shields.io/badge/Backend--Developer-Active-brightgreen?style=for-the-badge)
+**Backend Software Engineering · Computer Engineering Student**
 
-🎓 Computer Engineering student at FIUBA – University of Buenos Aires  
-💻 Focused on **backend development** with strong practices in design, testing and documentation  
-🔎 Looking for opportunities to keep learning, collaborate and contribute technical value
+I'm a Computer Engineering student at FIUBA — University of Buenos Aires, focused on **Backend Software Engineering**, with a complementary interest in **Systems and Networking**.
 
----
+My work combines software engineering fundamentals with hands-on project development: requirements engineering, software architecture, object-oriented design, databases, automated testing, APIs, concurrency and network protocols.
 
-## ⚙️ Technologies and Tools
+I currently focus on building and understanding backend systems with:
 
-![API-RESTful](https://img.shields.io/badge/API-RESTful-00BB2D?style=flat-square&logo=api&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-00BB2D?style=flat-square&logo=Cucumber&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Backend:** Java · Spring Boot · Node.js · Express · Python · Flask · REST APIs · WebSockets · JWT
+
+**Databases:** PostgreSQL · MongoDB · SQL · Relational & NoSQL
+
+**Software Engineering:** OOP · SOLID · GoF Design Patterns · TDD · BDD · Software Architecture · Requirements Engineering · C4 Model
+
+**Systems & Networking:** Rust · Linux/Unix · TCP/UDP · WebRTC · SDP · STUN · ICE · RTP · Concurrency
+
+**Tooling:** Git · Docker · GitHub Actions · JUnit 5 · Cucumber · Jest · Supertest · pytest · JaCoCo · Codecov · Swagger
 
 ---
 
-## 🧩 Featured Projects
+### AI-Assisted Engineering
 
-### 🔹 [API-CRUD](https://github.com/ValentinoCarmonaS/API-CRUD)  
-![Build Status](https://github.com/ValentinoCarmonaS/API-CRUD/actions/workflows/ci.yml/badge.svg)
-![Codecov](https://codecov.io/gh/ValentinoCarmonaS/API-CRUD/branch/main/graph/badge.svg)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-> RESTful API for user management using Node.js, Express and MongoDB.  
-> Includes JWT authentication, Jest testing, Docker, and Swagger documentation.  
-🔗 [Swagger Docs](https://api-crud-soy5.onrender.com/api-docs)
+I increasingly use AI as part of my software engineering workflow, particularly through **Spec-Driven Development** (SDD) and agent-assisted development. I use **GitHub Spec Kit** to support this workflow.
 
----
+Rather than treating AI as a replacement for engineering fundamentals, I use it to accelerate implementation, exploration, documentation, testing, debugging, and repetitive work while keeping the core engineering decisions under human control.
 
-### 🔹 [RealTimeChat – API](https://github.com/ValentinoCarmonaS/RealTimeChat)  
-![Build Status](https://github.com/ValentinoCarmonaS/RealTimeChat/actions/workflows/ci.yml/badge.svg)
-![Codecov](https://codecov.io/gh/ValentinoCarmonaS/RealTimeChat/branch/main/graph/badge.svg)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-> Backend API for real-time messaging using WebSockets and MongoDB.  
-> Includes authentication, rooms, automated testing and Swagger.  
-🔗 [Swagger Docs](https://realtimechat-59t7.onrender.com/api-docs)
+My focus is on defining clear specifications, designing the system, providing the necessary context, reviewing generated work, validating behavior through tests, and iterating when the implementation does not meet the intended requirements.
+
+In practice, this means being able to **understand the problem, specify it clearly, orchestrate AI to build parts of the solution, and critically evaluate the result**.
 
 ---
 
-### 🔹 [API-PSA (FIUBA)](https://github.com/ValentinoCarmonaS/squad_07_2025_1c)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-> Backend microservice developed with Spring Boot, PostgreSQL and Flyway.  
-> Academic team project for project management. Testing with JUnit and Cucumber.  
-🔗 [Project Management](https://tribu-a-2025-1c.onrender.com/proyectos)  
-🔗 [Swagger Docs](https://squad-07-2025-1c.onrender.com/swagger-ui/index.html)
+## Selected Projects
+
+### RoomRTC — Rust / WebRTC / Networking
+
+**FIUBA · Taller de Programación · 2025**
+
+A team project focused on real-time peer-to-peer communication and low-level networking.
+
+My main contributions included:
+
+* Implementing an SDP library from scratch in Rust, including session, media, codec and connection representations, parsing, serialization and testing.
+* Contributing to a STUN implementation based on RFC 5389 and ICE candidate gathering using Rust's standard library.
+* Proposing and implementing STUN server configuration through a `.conf` file.
+* Diagnosing and resolving an RTP deadlock caused by an overly broad synchronization boundary, separating sender and receiver locks.
+* Proposing a multi-threaded RTP architecture with independent sender and receiver components.
+
+[Repository](https://github.com/taller-1-fiuba-rust/25C2-el-crustaceo-cascarudo.git)
 
 ---
 
-### 🔹 [Logistic-Network (in progress)](https://github.com/ValentinoCarmonaS/Logistic_Network)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-> RESTful API for logistics network optimization using graph algorithms such as Dijkstra, BFS, and MST.  
-> Currently in development with Java and Spring Boot. Includes JUnit testing and Swagger documentation.  
-> **Objective**: Apply advanced data structures and algorithms in a real-world backend use case.
+### PMTool — Software Engineering / Architecture
+
+**FIUBA · Software Engineering · 2025–2026**
+
+A project developed through multiple stages of software engineering, from requirements analysis to architecture, implementation and validation.
+
+The project includes:
+
+* Requirements engineering and stakeholder analysis.
+* Requirements traceability.
+* Domain Storytelling.
+* User Stories and BDD with Cucumber.
+* Domain modeling and value objects.
+* C4 Context and Container architecture.
+* Layered architecture.
+* Recursive scheduling and dependency validation.
+* UI prototyping in Figma.
+* Relational database design in 3NF.
+* Automated testing and CI.
+
+Current implementation metrics include **85 automated tests**, **100% passing**, **94% instruction coverage** and **80% branch coverage**.
+
+[Repository](https://github.com/Valentino-Carmona/PMTool.git)
 
 ---
 
-## 💼 About Me
+### Balatro Clone / Balatro Web — Java / Spring Boot
 
-- I'm a person committed to continuous improvement, who values clean code, scalable solutions and teamwork-based learning.
-- I'm driven to build backend solutions that deliver real value, with a strong focus on clean architecture, automated testing, and effective documentation.
-- Although I don’t yet have professional experience in software companies, my academic and personal projects reflect my work ethic, self-learning ability and use of best practices.
+**FIUBA · Algorithms and Programming III · 2025 - 2026**
+
+The original Balatro engine was developed collaboratively by a five-person team. My individual contributions included:
+
+* Proposing and implementing the `JokerStrategy` hierarchy using the Strategy Pattern.
+* Applying the Open/Closed Principle to isolate variable joker behavior.
+* Contributing to poker-hand evaluation logic and related domain classes.
+* Implementing unit and integration tests.
+* Configuring Continuous Integration with GitHub Actions.
+
+I later individually migrated the domain into a web architecture using **Spring Boot**, a REST API and a React client, preserving the core game logic while separating it from the original JavaFX presentation layer.
+
+The backend currently reports **94% line coverage and 82% branch coverage with JaCoCo**.
+
+[Original Repository](https://github.com/SebastianLoe1/Algo3-TP2-2C2024-FIUBA.git)
+
+[Web Repository](https://github.com/Valentino-Carmona/Balatro.git)
+[Live Demo](https://balatro-frontend.onrender.com)
 
 ---
 
-## 📘 Currently Learning
+### API-CRUD
 
-### 🔹 [RutinaDelProgramador](https://github.com/ValentinoCarmonaS/RutinaDelProgramador)
-![Build Status](https://github.com/ValentinoCarmonaS/RutinaDelProgramador/actions/workflows/tests.yml/badge.svg)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-> Daily coding routine focused on strengthening data structures and algorithms skills.
-> Organized into themed sessions covering arrays, strings, hash tables, pointers, linked lists, stacks/queues, binary search, trees, graphs, etc. 
-> Designed as a structured, progressive practice plan to reinforce problem-solving techniques and algorithmic thinking.
+A REST API built with **Node.js, Express and MongoDB**, featuring JWT authentication, CRUD operations, Docker and automated testing.
 
-- Deepening knowledge in graph theory and algorithmic applications in backend systems  
-- Exploring AWS (EC2, S3, IAM) and best practices for backend deployment in cloud environments
+* 7 documented endpoints.
+* JWT authentication through middleware.
+* Jest + Supertest.
+* **98.64% statement coverage** and **93.75% branch coverage**.
+* Swagger documentation.
+
+[Repository](https://github.com/ValentinoCarmonaS/API-CRUD.git)
 
 ---
 
-## 📫 Contact
+### Real-Time Chat
 
-📧 [valencarmoon@gmail.com](mailto:valencarmoon@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/valentino-carmona-85399b23b)
+A backend-focused real-time messaging system built with **Node.js, Socket.IO and MongoDB**.
+
+* Multi-room messaging.
+* REST API for users, rooms and message history.
+* JWT authentication using Bearer tokens.
+* WebSocket-based real-time communication.
+* Unit and integration testing.
+* **95% branch coverage**.
+* Swagger documentation.
+
+[Repository](https://github.com/ValentinoCarmonaS/RealTimeChat.git)
+
+---
+
+## Engineering Focus
+
+I am particularly interested in the intersection between:
+
+**Understand → Design → Build → Debug → Learn**
+
+I enjoy working from requirements and domain understanding through architecture and implementation, while going deeper into concurrency, networking and systems when the problem requires it.
+
+Current areas of interest:
+
+* Software Architecture & Backend Systems
+* AI Agents & Agentic Software Development
+* Financial Systems & ISO 20022
+
+---
+
+## Education
+
+**Universidad de Buenos Aires — Facultad de Ingeniería (FIUBA)**
+Computer Engineering · 2022–Present
+
+Relevant areas include:
+
+Algorithms and Data Structures · Operating Systems · Computer Networks · Databases · Software Engineering · Computer Architecture
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/valentino-carmona-85399b23b) ·
+[GitHub](https://github.com/Valentino-Carmona) ·
+[valencarmoon@gmail.com](mailto:valencarmoon@gmail.com)
